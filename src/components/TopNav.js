@@ -32,7 +32,7 @@ export default function() {
           <Typography variant="h6" className={classes.title}>
             CompanyList
           </Typography>
-          <Button color="inherit">Login</Button>
+          <Button color="inherit">Add</Button>
         </Toolbar>
       </AppBar>
     </div>
